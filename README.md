@@ -21,3 +21,5 @@ data = pd.read_csv("your_file.csv")
 ```
 
 Replace `"your_file.csv"` with the actual name of your CSV file. Finally, run the Python file to start the classifier.
+
+> **Important:** To test whether the model is working correctly, set `TEST_MODE = False` on line 33.
