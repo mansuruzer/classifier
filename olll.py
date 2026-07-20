@@ -21,7 +21,7 @@ import requests
 from tqdm import tqdm
 
 # ------------------- AYARLAR -------------------
-CSV_DOSYASI = "converted_43.csv"
+CSV_DOSYASI = "your_file.csv"
 OUTPUT_DOSYASI = "sonuc_arizalar.csv"
 METIN_KOLONU = "Talep Açıklaması"
 LABEL_KOLONU = "İş Tipi"          # varsa: zaten MEK/OTO dolu satırlar atlanır
